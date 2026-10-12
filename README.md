@@ -1,2 +1,17 @@
-# aviutl2-parts-override-lipsync
-AviUtl2・PSDToolKit2用のパーツ上書き＋数値口パクスクリプト
+# パーツ上書き＋数値口パク
+
+AviUtl2・PSDToolKit2用の追加スクリプトです。
+
+パーツ上書きオブジェクト上で、閉じ口と発声時の開き口を
+番号で指定できます。
+
+## ダウンロード
+右側の「Releases」から配布ZIPをダウンロードしてください。
+
+## 必要環境
+- AviUtl2
+- PSDToolKit2（確認済み：v2.0.0alpha10）
+- 立ち絵とパーツ選択用の.ptk設定
+
+詳しい導入方法・設定方法は、ZIP内のREADME.txtをご覧ください。
+別PC・全バージョンでの動作保証はありません。
